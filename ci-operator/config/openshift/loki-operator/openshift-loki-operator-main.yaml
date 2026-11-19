@@ -64,7 +64,7 @@ promotion:
   to:
   - additional_images:
       loki-operator-bundle: loki-operator-bundle
-    name: main
+    name: 6.y
     namespace: logging
 releases:
   latest:
